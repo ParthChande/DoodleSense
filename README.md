@@ -9,15 +9,6 @@ DoodleSense is a machine learning project that trains a convolutional neural net
 - Interactive GUI: Provide a user-friendly interface to draw doodles and get real-time predictions from the trained model.
 - High Accuracy: Achieve high accuracy in classifying doodles through a well-architected CNN and advanced training techniques.
 
-# Use Cases
-- Educational Tool: Teach users about machine learning and neural networks in a fun and interactive way.
-- Creative Application: Allow users to draw and explore the capabilities of AI in understanding human sketches.
-- Research and Development: Serve as a foundation for further research in the field of computer vision and sketch recognition.
-
-# Model Summary
-![image](https://github.com/ParthChande/DoodleSense/assets/119730313/483c10a3-1849-4317-a040-51e316bd3af3)
-
-![image](https://github.com/ParthChande/DoodleSense/assets/119730313/5ebd54d5-878d-41ee-8fc7-14a2b9eea5e2)
 
 The SketchSense project employs a deep convolutional neural network (CNN) designed to classify hand-drawn doodles from the Quick, Draw! dataset. Here are the key details about the CNN architecture:
 
@@ -44,6 +35,11 @@ The SketchSense project employs a deep convolutional neural network (CNN) design
 
 **Deployment:**
 - The trained CNN model is deployed within an interactive GUI application, enabling users to draw doodles and receive real-time predictions, showcasing the CNN's effectiveness in recognizing diverse doodle categories.
+
+# Model Summary
+![image](https://github.com/ParthChande/DoodleSense/assets/119730313/483c10a3-1849-4317-a040-51e316bd3af3)
+
+![image](https://github.com/ParthChande/DoodleSense/assets/119730313/5ebd54d5-878d-41ee-8fc7-14a2b9eea5e2)
 
 # Predictor
 ![image](https://github.com/ParthChande/DoodleSense/assets/119730313/e9e75c7a-dfd5-4ca7-8361-909ee85cccdd) ![image](https://github.com/ParthChande/DoodleSense/assets/119730313/47823082-9ab9-4841-9e45-c678acbdcb67)
