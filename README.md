@@ -46,5 +46,6 @@ The SketchSense project employs a deep convolutional neural network (CNN) design
 - The trained CNN model is deployed within an interactive GUI application, enabling users to draw doodles and receive real-time predictions, showcasing the CNN's effectiveness in recognizing diverse doodle categories.
 
 # Predictor
-![image](https://github.com/ParthChande/DoodleSense/assets/119730313/e9e75c7a-dfd5-4ca7-8361-909ee85cccdd)
+![image](https://github.com/ParthChande/DoodleSense/assets/119730313/e9e75c7a-dfd5-4ca7-8361-909ee85cccdd) ![image](https://github.com/ParthChande/DoodleSense/assets/119730313/47823082-9ab9-4841-9e45-c678acbdcb67)
+
 
