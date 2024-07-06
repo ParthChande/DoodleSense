@@ -8,3 +8,8 @@ DoodleSense is a machine learning project that trains a convolutional neural net
 - Model Training: Train a deep CNN with mixed precision to efficiently learn and classify multiple categories of doodles.
 - Interactive GUI: Provide a user-friendly interface to draw doodles and get real-time predictions from the trained model.
 - High Accuracy: Achieve high accuracy in classifying doodles through a well-architected CNN and advanced training techniques.
+
+# Use Cases
+- Educational Tool: Teach users about machine learning and neural networks in a fun and interactive way.
+- Creative Application: Allow users to draw and explore the capabilities of AI in understanding human sketches.
+- Research and Development: Serve as a foundation for further research in the field of computer vision and sketch recognition.
