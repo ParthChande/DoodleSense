@@ -36,7 +36,7 @@ The SketchSense project employs a deep convolutional neural network (CNN) design
 **Deployment:**
 - The trained CNN model is deployed within an interactive GUI application, enabling users to draw doodles and receive real-time predictions, showcasing the CNN's effectiveness in recognizing diverse doodle categories.
 # Note
-I have used NVIDIA GeForce RTX 2050 GPU installed on my machine for training the data.
+I have used NVIDIA GeForce RTX 2050 installed on my machine for training the data.
 The following configuration successfully enabled me to use my GPU (may vary for different GPUs):
 - Python 3.8.10
 - cuda_11.2.0_460.89_win10
