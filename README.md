@@ -9,6 +9,9 @@ DoodleSense is a machine learning project that trains a convolutional neural net
 - Interactive GUI: Provide a user-friendly interface to draw doodles and get real-time predictions from the trained model.
 - High Accuracy: Achieve high accuracy in classifying doodles through a well-architected CNN and advanced training techniques.
 
+# Dataset
+https://console.cloud.google.com/storage/browser/quickdraw_dataset;tab=objects?prefix=&forceOnObjectsSortingFiltering=false
+
 # CNN
 The SketchSense project employs a deep convolutional neural network (CNN) designed to classify hand-drawn doodles from the Quick, Draw! dataset. Here are the key details about the CNN architecture:
 
